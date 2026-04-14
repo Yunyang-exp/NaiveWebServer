@@ -1,1 +1,4 @@
 Played around and Tested FTP server 4.7.26
+
+
+deployed wordpress sql system php along with nginx for web 4.10.26
